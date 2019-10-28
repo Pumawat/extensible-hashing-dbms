@@ -113,6 +113,7 @@ int main()
 
 void menu()
 {
+    // Displays Menu
     cout<<"--------------------"<<endl;
     cout<<"Enter queries in the following format :"<<endl;
     cout<<"insert <key> <value>     (key: integer, value: string)"<<endl;
